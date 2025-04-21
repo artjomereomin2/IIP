@@ -36,7 +36,7 @@ int main()
 {
     setlocale(LC_ALL, "Rus");
     //system("chcp 1251");
-    ifstream input("./2.Сортировки/1.Сортировки данных/input.txt");
+    ifstream input("./Tasks_2/2.Сортировки/1.Сортировки данных/input.txt");
     ofstream output("output.txt");
 
     string name;
